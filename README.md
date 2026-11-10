@@ -1,2 +1,1 @@
-# -2-
-캡스톤 디자인 1 - 레이다를 통해 접근 물체를 사람, 동물로 구분하고 사람일 경우 어떤 자세로 접근중인지를 파악함
+<img width="1204" height="1712" alt="image" src="https://github.com/user-attachments/assets/d861ea94-7899-4010-8ed8-22126a039d20" />
